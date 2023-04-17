@@ -1208,7 +1208,7 @@ docker run --rm curlimages/curl --connect-timeout 2 -x "socks5://172.17.0.2:4000
 
 上述的搭建和安装脚本可参看本库的 scripts 目录下的脚本（感谢网友 [@gongzili456](https://github.com/gongzili456) 开发）
 
--  [Ubuntu 18.04 Installation Script](https://github.com/haoel/haoel.github.io/blob/master/scripts/install.ubuntu.18.04.sh)
+-  [Ubuntu 18.04 Installation Script](https://github.com/AndersonHJB/vpn/blob/main/scripts/install.ubuntu.18.04.sh)
 
 欢迎补充和改善！
 

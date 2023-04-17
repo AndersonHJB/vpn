@@ -2,7 +2,7 @@
 
 # Author
 # original author:https://github.com/gongzili456
-# modified by:https://github.com/haoel
+# modified by:https://github.com/AndersonHJB
 
 # Ubuntu 18.04 系统环境
 
